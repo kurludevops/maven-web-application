@@ -3,9 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>maven-webapplication</artifactId>
 	<packaging>war</packaging>
-	<version>Release 1.0.3</version>
+	<version>Release 1.0.4</version>
 	
 	<name>maven-web-application</name>
 
