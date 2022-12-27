@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.174.172:8081/repository/kssimports/</url>
+	      <url>http://43.204.141.78:8081/repository/kssimports/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.174.172:8081/repository/kssimports-snapshot/</url>
+	      <url>http://43.204.141.78:8081/repository/kssimports-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
